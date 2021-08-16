@@ -1,0 +1,6 @@
+{
+  "name": "Demo - Salesforce ISU",
+  "provider": "salesforce",
+  "secure_gateway_tunnel_name": null,
+  "root_folder": true
+}
